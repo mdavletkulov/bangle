@@ -18,4 +18,4 @@
 
 1. name = 64 символа
 
-2. name = < 64 символов, fullDomainName > 255 симво
+2. name = < 64 символов, fullDomainName > 255 символов, но
