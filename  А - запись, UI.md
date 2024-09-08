@@ -18,4 +18,6 @@
 
 1. name = 64 символа
 
-2. name менее 64 символов, fullDomainName более 255 символов, но fullDomainName - zoneName менее 2
+2. name менее 64 символов, fullDomainName более 255 символов, но fullDomainName - zoneName менее 255 символов
+
+3. Cjpl
