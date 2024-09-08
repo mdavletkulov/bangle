@@ -24,4 +24,4 @@
 
 4. Точка в окончании, например test.
 
-5. Символы и
+5. Символы и <https://confluence.inno.tech/pages/viewpage.action?pageId=310812836>
