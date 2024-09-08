@@ -20,4 +20,4 @@
 
 2. name менее 64 символов, fullDomainName более 255 символов, но fullDomainName - zoneName менее 255 символов
 
-3. Cjpl
+3. Создание дубли
