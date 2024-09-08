@@ -24,4 +24,6 @@
 
 4. Точка в окончании, например test.
 
-5. Символы из <https://confluence.inno.tech/pages/viewpage.action?pageId=310812836>, пункт 4.3 - обсудить как лучше (
+5. Символы из <https://confluence.inno.tech/pages/viewpage.action?pageId=310812836>, пункт 4.3 - обсудить как лучше (shouldSoftly?)
+
+6. Несколько
